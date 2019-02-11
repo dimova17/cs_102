@@ -1,3 +1,7 @@
+### Game of life
+If not sure what it is, check: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life <br />
+There are two implementations: with and without classes
+
 ### Tests results:
   #### 1 part of work (no classes)
   
