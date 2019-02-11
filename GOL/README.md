@@ -1,5 +1,5 @@
-### Результаты тестов:
-  #### 1 часть работы
+### Tests results:
+  #### 1 part of work (no classes)
   
 ```python
 test_can_create_a_random_grid (__main__.TestGameOfLife) ... ok
@@ -21,7 +21,7 @@ Ran 12 tests in 0.046s
 OK 
 ```
 
-#### 2 часть работы
+#### 2 part (with classes)
 
 ```python
 test_can_create_a_cell (__main__.TestCell) ... ok
