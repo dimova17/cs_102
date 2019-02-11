@@ -1,2 +1,2 @@
-# cs_102
-Introduction to Python programming
+## cs_102
+First works on Python in ITMO University (Saint Petersburg)
